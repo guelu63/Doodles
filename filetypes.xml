@@ -2,11 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="jason" type="JSON" />
-      <removed_mapping ext="json" type="JSON" />
       <mapping ext="vehicle" type="PHP" />
       <mapping ext="validator" type="PHP" />
       <mapping ext="resolver" type="PHP" />
-      <mapping ext="json" type="PLAIN_TEXT" />
       <removed_mapping pattern=".resolver" approved="true" type="PHP" />
       <removed_mapping pattern=".validator" approved="true" type="PHP" />
     </extensionMap>
