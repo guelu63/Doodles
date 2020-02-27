@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="29bcd6ef-e24d-479d-82e0-b9829316b35b" name="localhost" url="http://localhost/cleanmx/">
+      <webServer id="29bcd6ef-e24d-479d-82e0-b9829316b35b" name="localhost" url="https://abrf.local">
         <fileTransfer port="0" mountedRoot="F:\xampp\htdocs\cleanmx" accessType="MOUNT" />
       </webServer>
     </option>
