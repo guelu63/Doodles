@@ -5,6 +5,7 @@
       <mapping ext="vehicle" type="PHP" />
       <mapping ext="validator" type="PHP" />
       <mapping ext="resolver" type="PHP" />
+      <mapping pattern="headerBase2020.ch.php" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
       <removed_mapping pattern=".resolver" approved="true" type="PHP" />
