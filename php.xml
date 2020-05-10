@@ -40,6 +40,7 @@
             <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imap" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="libxml" />
